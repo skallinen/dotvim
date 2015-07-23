@@ -7,3 +7,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/R-Vim-runtime"]
+	path = bundle/R-Vim-runtime
+	url = https://github.com/jalvesaq/R-Vim-runtime.git
