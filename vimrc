@@ -62,6 +62,9 @@ let g:xml_syntax_folding = 1
 "folding : repère les bloc du langage à plier
 set foldmethod=syntax
 
+set omnifunc=syntaxcomplete#Complete
+
+
 "twitter shortcuts   
 let g:twitterusername='floby'
 let g:twitterpassword=''
